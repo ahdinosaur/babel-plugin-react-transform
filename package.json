@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/gaearon/babel-plugin-react-transform#readme",
   "devDependencies": {
-    "babel": "^5.8.23",
+    "babel": "^6.0.0",
     "mocha": "^2.2.5",
     "rimraf": "^2.4.3"
   },
